@@ -7,7 +7,7 @@ In this case, **no extensions were installed**, indicating a clean browser envir
 ---
 
 ##  Screenshot
-### Extensions Page (No Extensions Installed)
+### Extensions Page (No Extensions Installed) 
 ![Extensions Page](screenshots/no_extensions.png)
 
 ---
