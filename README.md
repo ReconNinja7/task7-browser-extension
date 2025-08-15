@@ -50,3 +50,7 @@ Regularly reviewing and managing extensions is essential for maintaining browser
 
 ---
 
+
+**🔹 Author:** Mohammad Farhan Hussain
+**🔹 Internship:** Elevate Labs Cybersecurity Internship
+**🔹 Tools:** Firefox Browser Add-ons (Extensions)
